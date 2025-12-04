@@ -1,0 +1,4 @@
+Gradient (radial&bilinear):
+  From: center (#FFFFFF)
+  To: bottom right (#404040)
+  Point at: 65
