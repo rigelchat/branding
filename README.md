@@ -18,7 +18,7 @@ These are the core colors that define the Rigel universe.
 | Color                                                     | Hex           | RGB           | Role           | Usage                                  |
 | :-------------------------------------------------------- | :------------ | :------------ | :------------- | :------------------------------------- |
 | ![#0185ff](https://placehold.co/150x40/0185ff/0185ff.png) | **`#0185ff`** | `1, 133, 255` | **Rigel Blue** | Primary buttons, links, accents, logo. |
-| ![#000115](https://placehold.co/150x40/000115/000115.png) | **`#000115`** | `0, 1, 21`b   | **Deep Space** | Backgrounds, dark mode surfaces.       |
+| ![#000115](https://placehold.co/150x40/000115/000115.png) | **`#000115`** | `0, 1, 21`    | **Deep Space** | Backgrounds, dark mode surfaces.       |
 
 ---
 
