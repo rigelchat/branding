@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logos/svg/Rigel__Logomark-Blue.svg" alt="Rigel Logo" width="150" height="150"/>
+  <img src="https://avatars.githubusercontent.com/u/247460033?s=200&v=4" alt="Rigel Logo" width="100" height="100"/>
 
   # Rigel Brand Assets
 
