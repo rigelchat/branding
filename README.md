@@ -51,7 +51,7 @@ Here is an overview of what you will find in this repository:
 Our logo features **Leo**, the astronaut cat.
 
 * **Usage:** Please do not distort, stretch, or change the colors of the logo outside of the provided palette.
-* **Legacy:** This visual identity includes assets inspired by the Spacebar project, used with permission and gratitude.
+* **Legacy:** This visual identity includes assets inspired by the [Spacebar](https://github.com/spacebarchat) project, used with permission and gratitude.
 
 ### Available Formats
 
