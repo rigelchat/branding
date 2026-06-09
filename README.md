@@ -11,62 +11,60 @@
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
-These are the core colors that define the Rigel universe.
+Core colors used in the Rigel user interface and official assets.
 
-| Color                                                     | Hex           | RGB           | Role           | Usage                                  |
-| :-------------------------------------------------------- | :------------ | :------------ | :------------- | :------------------------------------- |
-| ![#0185ff](https://placehold.co/150x40/0185ff/0185ff.png) | **`#0185ff`** | `1, 133, 255` | **Rigel Blue** | Primary buttons, links, accents, logo. |
-| ![#000115](https://placehold.co/150x40/000115/000115.png) | **`#000115`** | `0, 1, 21`    | **Deep Space** | Backgrounds, dark mode surfaces.       |
-
----
-
-## 🔠 Typography
-
-Our primary typeface is **Science Gothic**.
-It is a variable font that blends a futuristic, scientific aesthetic with high readability.
-
-* **Font Family:** `Science Gothic`
-* **License:** OFL (Open Font License) - *Free to use*
-* **Location:** You can find all font weights and variable files in the [`fonts/`](fonts/) directory.
+| Color                                                     | Hex           | RGB           | Name / Role    | Usage                                               |
+| :-------------------------------------------------------- | :------------ | :------------ | :------------- | :-------------------------------------------------- |
+| ![#0185ff](https://placehold.co/150x40/0185ff/0185ff.png) | **`#0185ff`** | `1, 133, 255` | **Rigel Blue** | Primary buttons, links, active states, logo accent. |
+| ![#000115](https://placehold.co/150x40/000115/000115.png) | **`#000115`** | `0, 1, 21`    | **Deep Space** | Main background color.                              |
 
 ---
 
-## 📂 Directory Structure
+## Typography
 
-Here is an overview of what you will find in this repository:
+Rigel uses **Science Gothic** as its primary typeface.
+
+* **Font Family:** `Science Gothic` (Variable font)
+* **License:** SIL Open Font License (OFL)
+* **Files:** Available in the [`fonts/`](fonts/) directory.
+
+---
+
+## Directory Structure
 
 ```text
 .
-├── avatars/       # Default user avatars and group DM placeholders
-├── banners/       # Banners for Discord, GitHub Repos, and Social Media
-├── fonts/         # Science Gothic font files (Static & Variable)
+├── avatars/       # Default user avatars and placeholders
+├── banners/       # Banners for profiles and repository headers
+├── fonts/         # Science Gothic font files
 ├── icons/         # Application icons (SVG)
-└── logos/         # Official Vector Logomarks (Blue, White, Stroke)
+└── logos/         # Vector logomarks
 ```
-
-## 🦁 The Logo: Leo & The Star
-
-Our logo features **Leo**, the astronaut cat.
-
-* **Usage:** Please do not distort, stretch, or change the colors of the logo outside of the provided palette.
-* **Legacy:** This visual identity includes assets inspired by the [Spacebar](https://github.com/spacebarchat) project, used with permission and gratitude.
-
-### Available Formats
-
-* **Logomark:** The standalone icon (Cat/Star). Found in [`logos/svg/`](logos/svg/).
-* **Banners:** Full headers for your profiles. Found in [`banners/`](banners/).
 
 ---
 
-## ⚖️ License & Usage
+## Logo & Guidelines
 
-The assets in this repository are licensed under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)** unless otherwise noted.
+The logo features **Leo**, the astronaut cat. 
 
-* ✅ You represent Rigel in a blog post or video.
-* ✅ You create a client theme or skin.
-* ❌ You cannot use these assets to impersonate the official Rigel team.
+* **Guidelines:** Do not distort, stretch, or alter the colors of the vector files.
+* **Attribution:** Some visual assets are derived from or inspired by the [Spacebar](https://github.com/spacebarchat) project.
+
+### Available Formats
+
+* **Logomark:** SVG icon located in [`logos/svg/`](logos/svg/).
+* **Banners:** Header images located in [`banners/`](banners/).
+
+---
+
+## License
+
+These assets are licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** unless specified otherwise.
+
+* **Allowed:** Using these assets to represent Rigel in articles, videos, or custom client themes.
+* **Prohibited:** Using these assets to impersonate the official Rigel team or project.
 
 ---
 
