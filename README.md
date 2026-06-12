@@ -5,11 +5,11 @@
 
   The official design system, logos, and visual identity for Rigel.
 
-  [![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg?style=for-the-badge)](LICENSE)
-  [![Design](https://img.shields.io/badge/Design-Science_Gothic-black?style=for-the-badge)](fonts/)
-</div>
+  *Thank you to the [Spacebar](https://github.com/spacebarchat) project for allowing me to use its logo.*
 
----
+  [![Design](https://img.shields.io/badge/Design-Science_Gothic-black?style=for-the-badge)](fonts/)
+  [![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg?style=for-the-badge)](LICENSE)
+</div>
 
 ## Color Palette
 
@@ -50,7 +50,7 @@ Rigel uses **Science Gothic** as its primary typeface.
 The logo features **Leo**, the astronaut cat. 
 
 * **Guidelines:** Do not distort, stretch, or alter the colors of the vector files.
-* **Attribution:** Some visual assets are derived from or inspired by the [Spacebar](https://github.com/spacebarchat) project.
+* **Attribution:** Some visual assets are from the [Spacebar](https://github.com/spacebarchat) project.
 
 ### Available Formats
 
